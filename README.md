@@ -1,5 +1,5 @@
 # Lan_Monitor
-# LAN Monitor
+
 
 This Python script is a simple network monitor tool that uses the ICMP protocol to continuously ping a pre-defined set of hosts in your Local Area Network (LAN). 
 
@@ -38,6 +38,10 @@ python3 lan_monitor.py
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Disclaimer
+
+Only use on networks you are authorized to monitor
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
